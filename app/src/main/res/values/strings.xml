@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PoloMuseale</string>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Polo Museale</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="menu_tools">Informazioni</string>
+    <string name="menu_share">Storia Del Museo</string>
+    <string name="menu_send">Sezioni Del Museo</string>
+
+    <string name="Dallo_Studium_Urbis_alla_Cita_Universitaria"><u>Dallo Studium Urbis alla Cita Universitaria</u></string>
+    <string name="LIstituto_Fisico_Di_Roma_e_il_suo_Museo"><u>L Istituto Fisico Di Roma e il suo Museo</u></string>
+    <string name="I1_Nuovo_Museo_Di_Fisica_1857"><u>I1 Nuovo Museo Di Fisica (1857)</u></string>
+    <string name="I1_Circolo_Fisico_Di_Roma"><u>I1 Circolo Fisico Di Roma</u></string>
+    <string name="Cataloghi_e_inventari_del_Museo"><u>Cataloghi e inventari del Museo</u></string>
+    <string name="Registri_delle_fatture_e_bilancio"><u>Registri delle fatture e bilancio</u>               \u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0<u>dell Istituto di Fisica</u></string>
+    <string name="Biografie"><u>Biografie</u></string>
+    <string name="Album_fotografico"><u>Album fotografico</u></string>
+
+
+</resources>
